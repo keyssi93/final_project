@@ -16,7 +16,7 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 
 * [Databricks](https://databricks.com/)
 
-### Integrantes 
+### TEAM
 
 - Luis Felipe Bedoya Martinez
 - Keyssi Margarita Arroyo Mendez
