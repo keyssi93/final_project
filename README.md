@@ -1,3 +1,6 @@
+![idata_eafit](readme_img/logos.png "idata_eafit")
+
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -15,10 +18,10 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 
 ### Integrantes 
 
-*Luis Felipe Bedoya Martinez
-*Keyssi Margarita Arroyo Mendez
-*Yoban Steban Nova Aranda
-*Miguel Angel Correa Manrique
-*Diego Alejandro Zapata Marin
-*Faiber Andres Montes Gomez
+-Luis Felipe Bedoya Martinez
+-Keyssi Margarita Arroyo Mendez
+-Yoban Steban Nova Aranda
+-Miguel Angel Correa Manrique
+-Diego Alejandro Zapata Marin
+-Faiber Andres Montes Gomez
 
