@@ -18,10 +18,10 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 
 ### Integrantes 
 
--Luis Felipe Bedoya Martinez
--Keyssi Margarita Arroyo Mendez
--Yoban Steban Nova Aranda
--Miguel Angel Correa Manrique
--Diego Alejandro Zapata Marin
--Faiber Andres Montes Gomez
+- Luis Felipe Bedoya Martinez
+- Keyssi Margarita Arroyo Mendez
+- Yoban Steban Nova Aranda
+- Miguel Angel Correa Manrique
+- Diego Alejandro Zapata Marin
+- Faiber Andres Montes Gomez
 
