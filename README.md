@@ -17,6 +17,8 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 ### Built With
 
 * [Databricks](https://databricks.com/)
+* [spacy](https://spacy.io/usage)
+* [t-SNE](https://interactivechaos.com/es/manual/tutorial-de-machine-learning/t-sne)
 
 ### TEAM
 
