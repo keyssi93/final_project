@@ -52,9 +52,9 @@ y aqui podemos observar algunos de ellos que no se predijeron bien, cabe resalta
 
 ![idata_eafit_metrics](readme_img/test.PNG "idata_eafit_metricas")
 
-Proximos pasos
+**Proximos pasos**
 * Utilizar tecnicas para balance de Data 
-* verificar que la data proporcionada al modelo este en las categorias correctas para su calsificacion
+* Verificar que la data proporcionada al modelo este en las categorias correctas para su clasificacion
 * Entrenar el modelo acorde a la Categoria principal
 * Proporcionar un Dashboard que ayude a su vizualizacion y metricas 
 
