@@ -20,7 +20,7 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 * [spacy](https://spacy.io/usage)
 * [t-SNE](https://interactivechaos.com/es/manual/tutorial-de-machine-learning/t-sne)
 
-### TEAM
+### Team
 
 - Luis Felipe Bedoya Martinez
 - Keyssi Margarita Arroyo Mendez
@@ -29,13 +29,13 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 - Diego Alejandro Zapata Marin
 - Faiber Andres Montes Gomez
 
-### WORFLOW
+### Workflow
 
 Dado que en nuestro caso nos enfocaremos en agrupar y sintetizar los requerimientos en las subcategorias recomendadas de acuerdo al historico de las mismas utlizaremos NLP para dicho objetivo, como se envidencia a continuacion estas son las caracteristicas de un Model de procesamiento de lenguaje natural 
 
 ![idata_eafit_nlpworkflow](readme_img/nlp_worflow.png "idata_eafit_nlpworkflow")
 
-### Results
+### Results and conclutions 
 ![idata_eafit_conjunto](readme_img/output_productos.png "idata_eafit_cojuntodedatos")
 
 Al correr el model diseñado con la libreria spacy, especializada en NLP pudimos obtener estas metricas del modelo:
