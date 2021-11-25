@@ -50,7 +50,12 @@ Al ver su funcionamiento en un escenario real, tenemos que los 0 son los no pred
 
 y aqui podemos observar algunos de ellos que no se predijeron bien, cabe resaltar que al parecer puede que en la muestre esten mal clasificados por lo que el algoritmo lo aprendio de esta forma, como no podemos concluir en este punto del modelo, como proximo paso se propone indagar dentro de los productos o servicios en que subcateoria estan para asi afianzar nuestro modelo 
 
-![idata_eafit_metrics](readme_img/test.PNG "idata_eafit_metricas")
+![idata_eafit_resultados](readme_img/test.PNG "idata_eafit_resultados")
+
+Estos resultados probablemente se den tambien por el desbalance en las Subcategorias
+
+![idata_eafit_subcategoria](readme_img/subcategoria.PNG "idata_eafit_subcategoria")
+
 
 **Proximos pasos**
 * Utilizar tecnicas para balance de Data 
