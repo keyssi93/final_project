@@ -21,13 +21,12 @@ Con este proyecto nosotros queremos agregar valor agregado que contribuya con el
 * [t-SNE](https://interactivechaos.com/es/manual/tutorial-de-machine-learning/t-sne)
 
 ### Team
+* [Luis Felipe Bedoya Martinez](https://www.linkedin.com/in/felbed/)
+* [Keyssi Margarita Arroyo Mendez](https://www.linkedin.com/in/keyssi-m-arroyo/)
+* [Yoban Steban Nova Aranda](https://www.linkedin.com/in/yoban-nova-aranda-7a56ba1b2/)
+* [Diego Alejandro Zapata Marin](https://www.linkedin.com/in/diegoaengineer/)
+* [Faiber Andres Montes Gomez](https://www.linkedin.com/in/faiber-andres-montes/)
 
-- Luis Felipe Bedoya Martinez
-- Keyssi Margarita Arroyo Mendez
-- Yoban Steban Nova Aranda
-- Miguel Angel Correa Manrique
-- Diego Alejandro Zapata Marin
-- Faiber Andres Montes Gomez
 
 ### Workflow
 
@@ -56,12 +55,16 @@ Estos resultados probablemente se den tambien por el desbalance en las Subcatego
 
 ![idata_eafit_subcategoria](readme_img/subcategoria.PNG "idata_eafit_subcategoria")
 
+![idata_eafit_resultado](readme_img\resultado.PNG "idata_eafit_resultado")
+
+![idata_eafit_outpu](readme_img\output_modelo.PNG "idata_eafit_output")
+
+
 
 **Proximos pasos**
-* Utilizar tecnicas para balance de Data 
-* Verificar que la data proporcionada al modelo este en las categorias correctas para su clasificacion
-* Entrenar el modelo acorde a la Categoria principal
-* Proporcionar un Dashboard que ayude a su vizualizacion y metricas 
+* Recolección de más datos​
+* Reentrenamiento  y afinamiento del modelo​
+* Generacion de web en base a tecnología React para despliegue y uso del modelo 
 
 
 
