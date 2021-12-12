@@ -55,9 +55,9 @@ Estos resultados probablemente se den tambien por el desbalance en las Subcatego
 
 ![idata_eafit_subcategoria](readme_img/subcategoria.PNG "idata_eafit_subcategoria")
 
-![idata_eafit_resultado](readme_img\resultado.PNG "idata_eafit_resultado")
+![idata_eafit_resultado](readme_img/resultado.PNG "idata_eafit_resultado")
 
-![idata_eafit_outpu](readme_img\output_modelo.PNG "idata_eafit_output")
+![idata_eafit_outpu](readme_img/output_modelo.PNG "idata_eafit_output")
 
 
 
